@@ -1,0 +1,4 @@
+﻿  parse.cpp
+c:\users\123\desktop\ratracying\parse.cpp(99): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\123\desktop\ratracying\parse.cpp(99): note: consider using '%zu' in the format string
+  hw3.vcxproj -> C:\Users\123\Desktop\ratracying\x64\Release\hw3.exe
